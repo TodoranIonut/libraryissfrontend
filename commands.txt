@@ -6,3 +6,4 @@ npm install --save react-toastify
 npm install react-router-dom@6
 npm install axios
 npm install react-draggable
+npm install jwt-decode
